@@ -1,2 +1,2 @@
 # dzango
-learn how to coding
+learn how to code
